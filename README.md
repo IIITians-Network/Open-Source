@@ -1,7 +1,28 @@
 ![os at IIIT](img/logo/Open-sourse.png)
 # Open Source Project under IIITian Networks
-List of Open Source Project under IIITian Networks
 
+
+## Why contribute to open source??
+Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+- Improve software you rely on
+- Improve existing skills
+- Meet people who are interested in similar things
+- Find mentors and teach others
+- It’s empowering to be able to make changes, even small ones
+
+## What it means to contribute?
+don’t have to contribute code, A common misconception about contributing to open source is that you need to contribute code.You can
+- Answer questions about the project on e.g., Stack Overflow or Reddit.
+- Answer questions for people on open issues
+- Review code on other people’s submissions
+- Help moderate the discussion boards or conversation channels
+
+## How to contribute in such Open Source Project
+8% of casual contributions to open source are documentation, such as a typo fix, reformatting, or writing a translation.You Just need track issues related to the project And try to solve that issues And Open Pull Request.
+
+
+
+List of Open Source Project under IIITians Metworks
 - ## Website of IIITians Networks</H2>
   IIITians Networks Website
   
