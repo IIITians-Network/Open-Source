@@ -33,7 +33,6 @@ List of Open Source Project under IIITians Metworks
     - <a href="https://bhagalpur.iiitiansnetwork.com/">IIIT Bhagalpur</a>
     - <a href="https://bhopal.iiitiansnetwork.com/">IIIT Bhopal</a>
     - <a href="https://dharward.iiitiansnetwork.com/">IIIT Dharward</a>
-    - <a href="https://agartala.iiitiansnetwork.com/">IIIT Agartala</a>
     - <a href="https://guwahati.iiitiansnetwork.com/">IIIT Guwahati</a>
     - <a href="https://gwalior.iiitiansnetwork.com/">IIITM Gwalior</a>
     - <a href="https://jabalpur.iiitiansnetwork.com/">IIITDM Jabalpur</a>
@@ -43,7 +42,7 @@ List of Open Source Project under IIITians Metworks
     - <a href="https://kottayam.iiitiansnetwork.com/">IIIT Kottayam</a>
     - <a href="https://kurnool.iiitiansnetwork.com/">IIITDM Kurnool</a>
     - <a href="https://lucknow.iiitiansnetwork.com/">IIIT Lucknow</a>
-    - <a href="https://maipur.iiitiansnetwork.com/">IIIT Manipur</a>
+    - <a href="https://manipur.iiitiansnetwork.com/">IIIT Manipur</a>
     - <a href="https://nagpur.iiitiansnetwork.com/">IIIT Nagpur</a>
     - <a href="https://pune.iiitiansnetwork.com/">IIIT Pune</a>
     - <a href="https://raichur.iiitiansnetwork.com/">IIIT Raichur</a>
