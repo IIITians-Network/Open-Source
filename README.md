@@ -22,12 +22,30 @@ don’t have to contribute code, A common misconception about contributing to op
 
 
 
-List of Open Source Project under IIITians Metworks
+List of Open Source Projects
+
+- ## Noob-Developers
+  Details of Noob Developer
+  
+  [Demo link]()
+  [code link]()
+
+
+- ## Master-Portfolio
+  A clean, beautiful, responsive and 100% customizable portfolio template for Developers!
+
+  [Demo link](https://vima.netlify.app/)
+  [code link](https://github.com/vimalverma558/Master-Portfolio)
+  [website](https://master-portfolio.js.org/)
+
+
 - ## Website of IIITians Networks</H2>
   IIITians Networks Website
   
-    - <a href="#">IIITians Network</a>
-    - <a href="#">IIITians Team</a>
+    - <a href="https://github.com/IIITians-Network/Home-Page-Website">IIITians Network Home Page</a>
+    - <a href="https://github.com/IIITians-Network/Counselling">Counselling Section</a>
+    - <a href="https://github.com/IIITians-Network/Placement">Placement Section</a>
+    - <a href="https://github.com/IIITians-Network/Team">IIITians Team Page</a>
     - <a href="https://agartala.iiitiansnetwork.com/">IIIT Agartala</a>
     - <a href="https://allahabad.iiitiansnetwork.com/">IIIT Allahabad</a>
     - <a href="https://bhagalpur.iiitiansnetwork.com/">IIIT Bhagalpur</a>
@@ -54,20 +72,11 @@ List of Open Source Project under IIITians Metworks
     - <a href="https://una.iiitiansnetwork.com/">IIIT Una</a>
     - <a href="https://vadodra.iiitiansnetwork.com/">IIIT Vadodara</a>
     
-- ## Noob-Developers
-  Details of Noob Developer
-  
-  [Demo link]()
-  [code link]()
 
-
-- ## Master-Portfolio
-  A clean, beautiful, responsive and 100% customizable portfolio template for Developers!
-
-  [Demo link](https://vima.netlify.app/)
-  [code link](https://github.com/vimalverma558/Master-Portfolio)
-  [website](https://master-portfolio.js.org/)
-
+- ## Have an idea !
+  If you have an idea, want a team to start. You are always welcome.
+  Send a mail describing your project and we will add you to the organization, where you can create your own team and start working with fellow IIITians.
+  Send the mail at contact@iiitiansnetwork.com , iiitiansnetwork@gmail.com, or just raise a issue on this repository describing your idea. 
 <!-- - ## Prime-num
   prime-num is an math library for JavaScript and Node.js. It help you to find all prime number.  
   
