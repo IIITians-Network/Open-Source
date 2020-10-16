@@ -18,7 +18,7 @@ don’t have to contribute code, A common misconception about contributing to op
 - Help moderate the discussion boards or conversation channels
 
 ## How to contribute in such Open Source Project
-8% of casual contributions to open source are documentation, such as a typo fix, reformatting, or writing a translation.You Just need track issues related to the project And try to solve that issues And Open Pull Request.
+28% of casual contributions to open source are documentation, such as a typo fix, reformatting, or writing a translation.You Just need track issues related to the project And try to solve that issues And Open Pull Request.
 
 
 
