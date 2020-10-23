@@ -24,6 +24,12 @@ don’t have to contribute code, A common misconception about contributing to op
 
 List of Open Source Projects
 
+- ## Project-COMET
+  Ambitious Project of IIITians Network. Building Technical Profiles. Join if experience of MERN Stack, React Native, AWS, Cloudflare, Data Science in Python, Discord Partnership Program, CircleCI/Travis CI, Mocha and Chai
+  [Demo link](https://projectcomet.in/)
+  [code link](https://github.com/Project-COMET-IIITiansNetwork/WelcomePage)
+  [website](https://projectcomet.in/)
+
 - ## Noob-Developers
   Details of Noob Developer
   
