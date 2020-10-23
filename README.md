@@ -1,5 +1,5 @@
 ![os at IIIT](img/logo/Open-sourse.png)
-# Open Source Project under IIITian Networks
+# Open Source Projects under IIITian Networks
 
 
 ## Why contribute to open source??
