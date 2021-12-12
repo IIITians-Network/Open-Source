@@ -43,15 +43,19 @@ h6,
 }
 
 .card-icon{
-	background-color: #3498db;
+	background-color: #000000;
 	border-radius: 20px;
 	width: 40px;
 	height: 40px;
 	margin: 4%;
+	transition: all 0.2s ease-in-out;
 }
 .card-icon i{
 	color: wheat;
 	margin: 30%;
+}
+.card-icon:hover{
+	transform: scale(1.2);
 }
 
 /*--------------------------------------------------------------
@@ -418,6 +422,27 @@ h6,
 
 #hero .carousel-content {
 	text-align: center;
+}
+
+.float{
+	animation: float 10s linear infinite;
+
+}
+
+@keyframes float {
+	0% {
+		transform: translateY(0px);
+		opacity: 1;
+	  }
+	  50% {
+		transform: translateY(-80px);
+		opacity: 1;
+	  }
+	  100% {
+		transform: translateY(0px);
+		opacity: 1;
+	  }
+	
 }
 
 #hero h2 {
