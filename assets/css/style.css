@@ -43,15 +43,19 @@ h6,
 }
 
 .card-icon{
-	background-color: #3498db;
+	background-color: #000000;
 	border-radius: 20px;
 	width: 40px;
 	height: 40px;
 	margin: 4%;
+	transition: all 0.2s ease-in-out;
 }
 .card-icon i{
 	color: wheat;
 	margin: 30%;
+}
+.card-icon:hover{
+	transform: scale(1.2);
 }
 
 /*--------------------------------------------------------------
